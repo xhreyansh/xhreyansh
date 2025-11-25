@@ -17,11 +17,11 @@
 
 ## 🔗 Connect with me
 
-<a href="https://shreyansh.site" class="padded"><img align="left" alt="https://shreyansh.site" width="28px" src="https://github.com/xamarth/xamarth/blob/main/res/linkedin.png" /></a>
-<a href="#" class="padded"><img align="left" alt="#" width="28px" src="./res/youtube.png" /></a>
-<a href="https://telegram.dog/xhreyansh_07" class="padded"><img align="left" alt="xhreyansh" width="28px" src="./res/telegram.png" /></a>
-<a href="#" class="padded"><img align="left" alt="xhreyansh" width="28px" src="./res/twitter.png" /></a>
-<a href="https://www.linkedin.com/in/shreyansh-kosta-328b9a302" class="padded"><img align="left" alt="xhreyansh" width="28px" src="./res/linkedin.png" /></a>
+<a href="https://shreyansh.site" class="padded"><img align="left" alt="https://shreyansh.site" width="28px" src="https://github.com/xamarth/xamarth/blob/main/res/website.png" /></a>
+<a href="#" class="padded"><img align="left" alt="#" width="28px" src="https://github.com/xamarth/xamarth/blob/main/res/youtube.png" /></a>
+<a href="https://telegram.dog/xhreyansh_07" class="padded"><img align="left" alt="xhreyansh" width="28px" src="https://github.com/xamarth/xamarth/blob/main//res/telegram.png" /></a>
+<a href="#" class="padded"><img align="left" alt="xhreyansh" width="28px" src="https://github.com/xamarth/xamarth/blob/main/res/twitter.png" /></a>
+<a href="https://www.linkedin.com/in/shreyansh-kosta-328b9a302" class="padded"><img align="left" alt="xhreyansh" width="28px" src="https://github.com/xamarth/xamarth/blob/main/res/linkedin.png" /></a>
 </br>
 
 ---
