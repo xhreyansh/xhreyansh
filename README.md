@@ -26,29 +26,6 @@
 
 ---
 
-<!-- ## 📊 Stats -->
-<!-- [![Metrics](./)](https://samarth.site) -->
-
-## 👨🏻‍💻 WakaTime Stats
-
-```txt
-Total Time: 721 hrs 4 mins
-
-Python               265 hrs 45 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.86 %
-TypeScript           218 hrs 35 mins ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.31 %
-Dart                 53 hrs 10 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.38 %
-Kotlin               40 hrs 55 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.68 %
-JavaScript           37 hrs 4 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.14 %
-```
-
----
-
-<!-- ## 👨‍💻 LOC -->
-
-<!-- [![Lines of Code](https://api.githubtrends.io/user/svg/xamarth/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://samarth.site) -->
-
-<!-- --- -->
-
 ## 🎵 Now playing
 
 [![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/31za6m6kztwbs3u4olu3rqzist6a)
