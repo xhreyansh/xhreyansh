@@ -1,4 +1,4 @@
-## Hi, I'm [Shreyansh Kosta](https://shreyansh.site). Welcome to my GitHub Profile
+## Hi, I'm [Shreyansh Kosta](https://shreyansh.site). Welcome to my GitHub Profile!
 
 [![Profile views](https://komarev.com/ghpvc/?username=xhreyansh&label=Profile%20views&style=for-the-badge)](https://github.com/xhreyansh)
 
